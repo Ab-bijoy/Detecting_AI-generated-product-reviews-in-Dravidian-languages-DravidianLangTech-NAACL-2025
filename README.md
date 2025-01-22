@@ -29,9 +29,8 @@ We trained and evaluated traditional machine learning models for this task:
 ## Repository Structure
 ```
 ├── data
-│   ├── train
-│   ├── test
-│   └── validation
+│   ├── train dataset
+│   └── test dataset
 ├── models
 │   ├── transformers
 │   ├── deep_learning

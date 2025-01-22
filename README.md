@@ -11,6 +11,7 @@ The primary goal of this task is to classify product reviews as AI-generated or 
 We leveraged pre-trained transformer models for feature extraction and classification:
 - [`idajikuu/AI-HUMAN-detector`](https://huggingface.co/idajikuu/AI-HUMAN-detector)
 - [`akshayvkt/detect-ai-text`](https://huggingface.co/akshayvkt/detect-ai-text)
+- [`akshayvkt/detect-ai-text`](https://huggingface.co/MayZhou/e5-small-lora-ai-generated-detector)
 
 ### Deep Learning Models
 We implemented and fine-tuned the following deep learning architectures:

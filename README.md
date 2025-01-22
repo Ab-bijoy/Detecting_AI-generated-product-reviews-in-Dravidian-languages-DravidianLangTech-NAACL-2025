@@ -76,7 +76,7 @@ We trained and evaluated traditional machine learning models for this task:
 | Model Type           | Accuracy | Precision | Recall | F1-Score |
 |----------------------|----------|-----------|--------|----------|
 | Transformer          | XX.XX%  | XX.XX%    | XX.XX% | XX.XX%   |
-| Deep Learning (LSTM) | 58%     | 77.1739%  | 58%  | 49.0043%   |
+| Deep Learning (GRU) | 58%     | 77.1739%  | 58%  | 49.0043%   |
 | Machine Learning     | XX.XX%  | XX.XX%    | XX.XX% | XX.XX%   |
 
 ## Contributing

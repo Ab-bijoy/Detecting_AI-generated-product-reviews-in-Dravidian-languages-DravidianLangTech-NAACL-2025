@@ -30,8 +30,9 @@ We trained and evaluated traditional machine learning models for this task:
 ## Repository Structure
 ```
 ├── Data Augmentation
-│   ├── train dataset
-│   └── test dataset
+│   ├── Data Augmentation.ipynb
+│   ├── Final_augmentated_data(tamil)
+│   └── Final_augmentated_data(malayalam)
 ├── data
 │   ├── train dataset
 │   └── test dataset

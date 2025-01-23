@@ -29,6 +29,9 @@ We trained and evaluated traditional machine learning models for this task:
 
 ## Repository Structure
 ```
+├── Data Augmentation
+│   ├── train dataset
+│   └── test dataset
 ├── data
 │   ├── train dataset
 │   └── test dataset
@@ -36,41 +39,10 @@ We trained and evaluated traditional machine learning models for this task:
 │   ├── transformers
 │   ├── deep_learning
 │   └── machine_learning
-├── scripts
-│   ├── preprocess.py
-│   ├── train.py
-│   └── evaluate.py
-├── notebooks
-│   └── exploration.ipynb
 ├── results
 │   └── metrics
 └── README.md
 ```
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<Ab-bijoy>/dravidian-ai-detector.git
-   cd dravidian-ai-detector
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-1. **Preprocess Data:**
-   ```bash
-   python scripts/preprocess.py --input data/raw --output data/processed
-   ```
-2. **Train Models:**
-   ```bash
-   python scripts/train.py --model_type <transformer|deep_learning|machine_learning>
-   ```
-3. **Evaluate Models:**
-   ```bash
-   python scripts/evaluate.py --model_path models/<model_name>
-   ```
 
 ## Results
 Tamil:

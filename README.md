@@ -85,7 +85,7 @@ Malayalam:
 
 | Model Type           | Accuracy | Precision | Recall | F1-Score |
 |----------------------|----------|-----------|--------|----------|
-| Transformer          | XX.XX%  | XX.XX%    | XX.XX% | XX.XX%   |
+| Transformer          | 90%  | 90.5844%    | 90% | 89.9638%   |
 | Deep Learning (GRU) | 58%     | 77.1739%  | 58%  | 49.0043%   |
 | Machine Learning     | XX.XX%  | XX.XX%    | XX.XX% | XX.XX%   |
 

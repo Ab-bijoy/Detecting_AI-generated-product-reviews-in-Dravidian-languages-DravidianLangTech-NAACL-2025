@@ -50,7 +50,7 @@ We trained and evaluated traditional machine learning models for this task:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/dravidian-ai-detector.git
+   git clone https://github.com/<Ab-bijoy>/dravidian-ai-detector.git
    cd dravidian-ai-detector
    ```
 2. Install dependencies:

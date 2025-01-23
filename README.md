@@ -78,7 +78,7 @@ Tamil:
 | Model Type           | Accuracy | Precision | Recall | F1-Score |
 |----------------------|----------|-----------|--------|----------|
 | Transformer          | XX.XX%  | XX.XX%    | XX.XX% | XX.XX%   |
-| Deep Learning (GRU) | 58%     | 77.1739%  | 58%  | 49.0043%   |
+| Deep Learning (GRU) | 51%     | 46.0210%  | 51%  | 38.2893%   |
 | Machine Learning     | XX.XX%  | XX.XX%    | XX.XX% | XX.XX%   |
 
 Malayalam:
